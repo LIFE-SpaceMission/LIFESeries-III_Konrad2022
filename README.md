@@ -1,6 +1,8 @@
-# LIFE-Series-III  
+# Large Interferometer For Exoplanets (LIFE) III. Spectral resolution, wavelength range, and sensitivity requirements based on atmospheric retrieval analyses of an exo-Earth
   
-Cloud- and scattering-free spectra of an Earth-twin used as input for the retrievals in LIFE III   (Konrad et al. 2022; A&A 664, A23).  
+Cloud- and scattering-free spectra of an Earth-twin used as input for the retrievals in LIFE III   (Konrad et al. 2022; A&A 664, A23). 
+
+Link to paper: 	https://doi.org/10.1051/0004-6361/202141964 
   
 All spectra were generated using petitRADTRANS assuming the parameter values listed in  
 the "Input" column of Table 3 in the publication. The used line-lists are provided in  
